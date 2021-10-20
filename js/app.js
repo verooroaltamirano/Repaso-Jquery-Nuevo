@@ -7,27 +7,27 @@ $(document).ready (function(){
     
     $("#boton-cocina").click(function(){
         $(".electro,.cocina,.hardware,.belleza,.arte,.mascotas").show()
-        $(".hardware,.electro,.mascotas").toggle(1000)
+        $(".hardware,.electro,.mascotas").toggle(1100)
     })
 
     $("#boton-hardware").click(function(){
         $(".electro,.cocina,.hardware,.belleza,.arte,.mascotas").show()
-        $(".electro,.hardware,.cocina").toggle(1000)
+        $(".electro,.hardware,.cocina").toggle(1100)
         console.log("boton hardware")
     })
     $("#boton-belleza").click(function () {
         $(".electro,.cocina,.hardware,.belleza,.arte,.mascotas").show()
-        $(".hardware,.cocina,.mascotas").toggle(1000)
+        $(".hardware,.cocina,.mascotas").toggle(1100)
         console.log("boton belleza")
     })
     $("#boton-arte").click(function () {
         $(".cocina,.electro,.hardware,.belleza,.arte,.mascotas").show()
-        $(".belleza,.cocina,.electro").toggle(1000)
+        $(".belleza,.cocina,.electro").toggle(1100)
         console.log("boton arte")
     })
     $("#boton-mascotas").click(function () {
         $(".cocina,.electro,.hardware,.belleza,.arte,.mascotas").show()
-        $(".hardware,.cocina,.electro").toggle(1000)
+        $(".hardware,.cocina,.electro").toggle(1100)
         console.log("boton mascotas")
 
     })
