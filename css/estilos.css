@@ -1,7 +1,6 @@
 .etiqueta1{
-    border:rgb(112, 113, 144) 0px;
-}
-    
+    border:rgb(112, 113, 144) 2px;
+}   
 .contenido{
     background-color: yellow;
 }
@@ -18,27 +17,201 @@
     font-style: italic;
     font-size: 18px;
 }
-.target-cok{
+.target-cok-tit{
+    text-align: center;
     font-weight: bold;
     font-size: 18px;
 }
-.target-cash-cok{
+.target-coucine{
     text-align: center;
+}
+.target-cash-cok{
     font-weight:bold;
     font-style: italic;
     font-size: 18px;
 }
-.target-hard{
+.target-hard-tit{
     text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+.target-hardwar{
+    text-align: center;    
+}
+.target-cash-hard{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px;
+}
+.target-Beautiful-tit{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+.target-beauty{
+     text-align: center
+}
+.target-cash-beauty{
     font-weight:bold;
     font-style: italic;
-    font-size: 18px;    
-}.beauty{
-   border-color: blueviolet;
+    font-size: 18px;
 }
-.art{
-    border:solid 2px darkcyan;
+.target-arte-tit{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
 }
-.masc{
-    border:solid 2px steelblue;
+.target-arte{
+    text-align: center
+}
+.target-cash-art{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px;
+}
+.target-can-felin-tit{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+.target-can-felin{
+    text-align: center
+}
+.target-cash-can-felin{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px;
+}
+.target-Smart-Phone-tit{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+.target-Smart-Phone{
+    text-align: center
+}
+.target-cash-Phone-tab{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px;
+}
+.target-manuales-codigos-tit{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+.target-manu-cod{
+    text-align: center
+}
+.target-cash-man-cod{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px; 
+}
+.target-rop-femina-tit{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+.target-rop-femina{
+    text-align: center 
+}
+.target-cash-fem{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px; 
+}
+.target-rop-homine-tit{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px; 
+}
+.target-rop-homine{
+   text-align: center  
+}
+.target-cash-hom{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px; 
+}
+.target-auto-tit{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px; 
+}
+.target-auto{
+    text-align: center;
+}
+.target-cash-auto{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px; 
+}
+.target-moto-tit{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px; 
+}
+.target-moto{
+    text-align: center;
+}
+.target-cash-moto{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px;
+}
+.target-zapatos-femeninos-tit{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px; 
+}
+.target-zap-femina{
+    text-align: center;
+}
+.target-cash-zap-femina{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px;
+}
+.target-zapatos-masculinos-tit{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+.target-zap-nasculinos{
+    text-align: center;
+}
+.target-cash-zap-homine{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px; 
+}
+.target-book-religion-tit{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+.target-book-fe{
+    text-align: center;
+}
+.target-cash-book-fe{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px; 
+}
+.target-navidad-tit{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+.target-navidad{
+    text-align: center;
+}
+.target-cash-navidad{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px;
+}
+.beauty{
+   border-color: blue;
 }
