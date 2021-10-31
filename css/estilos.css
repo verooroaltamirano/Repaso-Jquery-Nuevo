@@ -69,6 +69,12 @@
     font-style: italic;
     font-size: 18px;
 }
+.art-borde{
+    border:fuchsia solid 2px;
+}
+.art:hover{ 
+  background-color: rgb(240, 226, 214);
+}
 .target-can-felin-tit{
     text-align: center;
     font-weight: bold;
@@ -213,5 +219,5 @@
     font-size: 18px;
 }
 .beauty{
-   border-color: blue;
+   border: blue solid 2px
 }
