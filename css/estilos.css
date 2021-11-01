@@ -1,11 +1,12 @@
 .etiqueta1{
-    border:rgb(112, 113, 144) 2px;
+    border:rgb(46, 51, 194) 2px;
 }   
 .contenido{
     background-color: yellow;
 }
 .tarjeta-texto{
    text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
 }
 .tarjeta-titulo{
     text-align: center;
@@ -24,6 +25,7 @@
 }
 .target-coucine{
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .target-cash-cok{
     font-weight:bold;
@@ -36,7 +38,8 @@
     font-size: 18px;
 }
 .target-hardwar{
-    text-align: center;    
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif;   
 }
 .target-cash-hard{
     font-weight: bold;
@@ -49,7 +52,9 @@
     font-size: 18px;
 }
 .target-beauty{
-     text-align: center
+     text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+     
 }
 .target-cash-beauty{
     font-weight:bold;
@@ -62,7 +67,8 @@
     font-size: 18px;
 }
 .target-arte{
-    text-align: center
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .target-cash-art{
     font-weight: bold;
@@ -81,7 +87,8 @@
     font-size: 18px;
 }
 .target-can-felin{
-    text-align: center
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .target-cash-can-felin{
     font-weight: bold;
@@ -94,7 +101,8 @@
     font-size: 18px;
 }
 .target-Smart-Phone{
-    text-align: center
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .target-cash-Phone-tab{
     font-weight: bold;
@@ -107,7 +115,8 @@
     font-size: 18px;
 }
 .target-manu-cod{
-    text-align: center
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .target-cash-man-cod{
     font-weight: bold;
@@ -120,7 +129,8 @@
     font-size: 18px;
 }
 .target-rop-femina{
-    text-align: center 
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .target-cash-fem{
     font-weight: bold;
@@ -133,7 +143,8 @@
     font-size: 18px; 
 }
 .target-rop-homine{
-   text-align: center  
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif; 
 }
 .target-cash-hom{
     font-weight: bold;
@@ -147,6 +158,7 @@
 }
 .target-auto{
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .target-cash-auto{
     font-weight: bold;
@@ -160,6 +172,7 @@
 }
 .target-moto{
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .target-cash-moto{
     font-weight: bold;
@@ -173,6 +186,7 @@
 }
 .target-zap-femina{
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .target-cash-zap-femina{
     font-weight: bold;
@@ -186,6 +200,7 @@
 }
 .target-zap-nasculinos{
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .target-cash-zap-homine{
     font-weight: bold;
@@ -199,6 +214,7 @@
 }
 .target-book-fe{
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .target-cash-book-fe{
     font-weight: bold;
@@ -212,6 +228,7 @@
 }
 .target-navidad{
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .target-cash-navidad{
     font-weight: bold;
