@@ -1,58 +1,46 @@
 $(document).ready (function(){ 
 
     $("#boton-electro").click(function(){
-        $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.Smart&Phone,.Book Universitarios,.ropa femenina,.ropa masculina,.autos,.motos,.zapatos femeninos,.zapatos masculinos,.libros religiosos,.Fiestas navideñas").show()
-        $(".cocina,.Hardware,.belleza,.arte,.mascotas,.Smart&Phone,.Book Universitarios,.ropa femenina,.ropa masculina,.autos,.motos,.zapatos femeninos,.zapatos masculinos,.libros religiosos,.Fiestas navideñas").toggle(1000)
-        console.log("boton electro")
+        $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.SmartPhone,.BookUniversitarios,.ropaFemenina,.ropaMasculina,.autos,.motos,.zapatosFemeninos,.zapatosMasculinos,.librosReligiosos,.FiestasNavideñas").show()
+        $(".cocina,.Hardware,.belleza,.arte,.mascotas,.SmartPhone,.BookUniversitarios,.ropaFemenina,.ropaMasculina,.autos,.motos,.zapatosFemeninos,.zapatosMasculinos,.librosReligiosos,.FiestasNavideñas").toggle(1000)
+        
     })
     $("#boton-cocina").click(function(){
-        $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.Smart&Phone,.Book Universitarios,.ropa femenina,.ropa masculina,.autos,.motos,.zapatos femeninos,.zapatos masculinos,.libros religiosos,.Fiestas navideñas").show()
-        $(".electro,.Hardware,.belleza,.arte,.mascotas,.Smart&Phone,.Book Universitarios,.ropa femenina,.ropa masculina,.autos,.motos,.zapatos femeninos,.zapatos masculinos,.libros religiosos,.Fiestas navideñas").toggle(1000)
+        $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.SmartPhone,.BookUniversitarios,.ropaFemenina,.ropaMasculina,.autos,.motos,.zapatosFemeninos,.zapatosMasculinos,.librosReligiosos").show()
+        $(".electro,.Hardware,.belleza,.arte,.mascotas,.SmartPhone,.BookUniversitarios,.ropaFemenina,.ropaMasculina,.autos,.motos,.zapatosFemeninos,.zapatosMasculinos,.librosReligiosos,.FiestasNavideñas").toggle(1000)
         console.log("cocina")
     })
     $("#boton-hardware").click(function(){
-        $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.Smart&Phone,.Book Universitarios,.ropa femenina,.ropa masculina,.autos,.motos,.zapatos femeninos,.zapatos masculinos,.libros religiosos,.Fiestas navideñas").show()
-        $(".electro,.cocina,.belleza,.arte,.mascotas,.Smart&Phone,.Book Universitarios,.ropa femenina,.ropa masculina,.autos,.motos,.zapatos femeninos,.zapatos masculinos,.libros religiosos,.Fiestas navideñas").toggle(1000)
+        $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.SmartPhone,.BookUniversitarios,.ropaFemenina,.ropaMasculina,.autos,.motos,.zapatosFemeninos,.zapatosMasculinos,.librosReligiosos").show()
+        $(".electro,.cocina,.belleza,.arte,.mascotas,.SmartPhone,.BookUniversitarios,.ropaFemenina,.ropaMasculina,.autos,.motos,.zapatosFemeninos,.zapatosMasculinos,.librosReligiosos,.FiestasNavideñas").toggle(1000)
         console.log("boton hardware")
     })
     $("#boton-belleza").click(function (){
-        $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.Smart&Phone,.Book Universitarios,.ropa femenina,.ropa masculina,.autos,.motos,.zapatos femeninos,.zapatos masculinos,.libros religiosos,.Fiestas navideñas").show()
-        $(".electro,.cocina,.Hardware,.arte,.mascotas,.Smart&Phone,.Book Universitarios,.ropa femenina,.ropa masculina,.autos,.motos,.zapatos femeninos,.zapatos masculinos,.libros religiosos,.Fiestas navideñas").toggle(1000)
+        $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.SmartPhone,.BookUniversitarios,.ropaFemenina,.ropaMasculina,.autos,.motos,.zapatosFemeninos,.zapatosMasculinos,.librosReligiosos").show()
+        $(".electro,.cocina,.Hardware,.arte,.mascotas,.SmartPhone,.BookUniversitarios,.ropaFemenina,.ropaMasculina,.autos,.motos,.zapatosFemeninos,.zapatosMasculinos,.librosReligiosos,.FiestasNavideñas").toggle(1000)
         console.log("boton belleza")
     })
     $("#boton-arte").click(function () {
-        $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.Smart&Phone,.Book Universitarios,.ropa femenina,.ropa masculina,.autos,.motos,.zapatos femeninos,.zapatos masculinos,.libros religiosos,.Fiestas navideñas").show()
-        $(".electro,.cocina,.Hardware,.belleza,.mascotas,.Smart&Phone,.Book Universitarios,.ropa femenina,.ropa masculina,.autos,.motos,.zapatos femeninos,.zapatos masculinos,.libros religiosos,.Fiestas navideñas").toggle(1000)
-        console.log("boton arte")
+        $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.SmartPhone,.BookUniversitarios,.ropaFemenina,.ropaMasculina,.autos,.motos,.zapatosFemeninos,.zapatosMasculinos,.librosReligiosos").show()
+        $(".electro,.cocina,.Hardware,.belleza,.mascotas,.SmartPhone,.BookUniversitarios,.ropaFemenina,.ropaMasculina,.autos,.motos,.zapatosFemeninos,.zapatosMasculinos,.librosReligiosos").toggle(1000)
     })
     $("#boton-mascotas").click(function () {
-        $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.Smart&Phone,.Book Universitarios,.ropa femenina,.ropa masculina,.autos,.motos,.zapatos femeninos,.zapatos masculinos,.libros religiosos,.Fiestas navideñas").show()
-        $(".electro,.cocina,.Hardware,.belleza,.arte,.Smart&Phone,.Book Universitarios,.ropa femenina,.ropa masculina,.autos,.motos,.zapatos femeninos,.zapatos masculinos,.libros religiosos,.Fiestas navideñas").toggle(1000)
+        $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.SmartPhone,.ropaFemenina,.ropaMasculina,.autos,.motos,.zapatosFemeninos,.zapatosMasculinos,.librosReligiosos").show()
+        $(".electro,.cocina,.Hardware,.belleza,.arte,.SmartPhone,.BookUniversitarios,.ropaFemenina,.ropaMasculina,.autos,.motos,.zapatosFemeninos,.zapatosMasculinos,.librosReligiosos").toggle(1000)
     })
-    $("#boton-Smart&Phone").click(function(){
-        $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.Smart&Phone,.Book Universitarios,.ropa femenina,.ropa masculina,.autos,.motos,.zapatos femeninos,.zapatos masculinos,.libros religiosos,.Fiestas navideñas").show()
-        $(".electro,.cocina,.belleza,.arte,.mascotas,.Book Universitarios,.ropa femenina,.ropa masculina,.autos,.motos,.zapatos femeninos,.zapatos masculinos,.libros religiosos,.Fiestas navideñas").toggle(1000)
-        console.log("boton hardware")
-    })
-    $("#boton-Book Universitarios").click(function (){
-        $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.Smart&Phone,.Book Universitarios,.ropa femenina,.ropa masculina,.autos,.motos,.zapatos femeninos,.zapatos masculinos,.libros religiosos,.Fiestas navideñas").show()
-        $(".hardware,.cocina,.mascotas,.arte,.mascotas,.Smart&Phone,.ropa femenina,.ropa masculina,.autos,.motos,.zapatos femeninos,.zapatos masculinos,.libros religiosos,.Fiestas navideñas").toggle(1000)
-        console.log("boton belleza")
-    })
-    $("#boton-ropa femenina").click(function (){
-        $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.Smart&Phone,.Book Universitarios,.ropa femenina,.ropa masculina,.autos,.motos,.zapatos femeninos,.zapatos masculinos,.libros religiosos,.Fiestas navideñas").show()
-        $(".belleza,.cocina,.electro,.mascotas,.Smart&Phone,.Book Universitarios,.ropa masculina,.autos,.motos,.zapatos femeninos,.zapatos masculinos,.libros religiosos,.Fiestas navideñas").toggle(1000)
+    $("#boton-Ropa-femenina").click(function (){
+        $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.SmartPhone,.BookUniversitarios,.ropaFemenina,.ropaMasculina,.autos,.motos,.zapatosFemeninos,.zapatosMasculinos,.librosReligiosos").show()
+        $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.SmartPhone,.BookUniversitarios,.ropaMasculina,.autos,.motos,.zapatosFemeninos,.zapatosMasculinos,.librosReligiosos").toggle(1000)
         console.log("boton arte")
     })
     $("#boton-todos").click(function (){
-        $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.Smart&Phone,.Book Universitarios,.ropa femenina,.ropa masculina,.autos,.motos,.zapatos femeninos,.zapatos masculinos,.libros religiosos,.Fiestas navideñas").show()
-        $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.Smart&Phone,.Book Universitarios,.ropa femenina,.ropa masculina,.autos,.motos,.zapatos femeninos,.zapatos masculinos,.libros religiosos,.Fiestas navideñas").toggle(1000)
-        console.log("boton todos")
+        $("electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.SmartPhone,.BookUniversitarios,.ropaFemenina,.ropaMasculina,.autos,.motos,.zapatosFemeninos,.zapatosMasculinos,.librosReligiosos").show()
+    })
+    
+    $("#foto1").click(function(){
+        $("#fotoPrincipal").attr("src","./img/Hardware/partespc/gabinete.jpg")
     })
 
-    $("#h5").text(`
-        ("Articulos")
-        `)
 });
 
 
