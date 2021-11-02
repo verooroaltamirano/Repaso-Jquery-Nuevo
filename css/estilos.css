@@ -18,6 +18,9 @@
     font-style: italic;
     font-size: 18px;
 }
+.elect:hover{
+    background-color: rgb(191, 230, 173);
+}
 .target-cok-tit{
     text-align: center;
     font-weight: bold;
@@ -45,6 +48,9 @@
     font-weight: bold;
     font-style: italic;
     font-size: 18px;
+}
+.hard:hover{
+    background-color:orange
 }
 .target-Beautiful-tit{
     text-align: center;
@@ -76,7 +82,7 @@
     font-size: 18px;
 }
 .art-borde{
-    border:fuchsia solid 2px;
+    border:fuchsia solid 3px;
 }
 .art:hover{ 
   background-color: rgb(240, 226, 214);
@@ -109,6 +115,9 @@
     font-style: italic;
     font-size: 18px;
 }
+.Phone:hover{
+   background-color:rgb(193, 235, 211) 
+}
 .target-manuales-codigos-tit{
     text-align: center;
     font-weight: bold;
@@ -137,6 +146,9 @@
     font-style: italic;
     font-size: 18px; 
 }
+.ropa-fem:hover{
+    background-color: yellow;
+}
 .target-rop-homine-tit{
     text-align: center;
     font-weight: bold;
@@ -164,6 +176,9 @@
     font-weight: bold;
     font-style: italic;
     font-size: 18px; 
+}
+.auto:hover{
+    background-color: rgb(245, 209, 177);
 }
 .target-moto-tit{
     text-align: center;
@@ -236,5 +251,5 @@
     font-size: 18px;
 }
 .beauty{
-   border: blue solid 2px
+   border: blue solid 3px
 }
