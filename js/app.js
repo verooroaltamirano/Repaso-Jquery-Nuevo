@@ -41,22 +41,21 @@ $(document).ready (function(){
     $("#foto1").click(function(){
         $("#fotoPrincipal").attr("src","./img/Hardware/partespc/gabinete_resultado.jpg")
     })
-
     $("#foto2").click(function(){
         $("#fotoPrincipal").attr("src","./img/Hardware/partespc/tecladorgb_resultado.jpg")
     })
-
     $("#foto3").click(function(){
         $("#fotoPrincipal").attr("src","./img/Hardware/partespc/monitores_resultado.jpg")
     })
     $("#foto3").click(function () {
-        $("#descripcion").text("monitor")
+        $("#descripcion").text("Monitor")
     })
     $("#foto2").click(function () {
-        $("#descripcion").text("teclado")
+        $("#descripcion").text("Teclado")
     })
     $("#foto1").click(function () {
-        $("#descripcion").text("gabinete")
+        $("#descripcion").text("Gabinete")
+        $("#descripcionprecio").num("9000$")
     })
 });
 
