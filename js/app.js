@@ -39,16 +39,25 @@ $(document).ready (function(){
         $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.SmartPhone,.ropaFemenina,.ropaMasculina,.autos,.motos,.zapatosFemeninos,.zapatosMasculinos,.librosReligiosos").fadeOut(4000)
     })
     $("#foto1").click(function(){
-        $("#fotoPrincipal").attr("src","./img/Hardware/partespc/gabinete.jpg")
-    }) 
-    $("#foto1").click(function () {
-         $(<p>"Ofertas para estudiantes"</p>).after()
+        $("#fotoPrincipal").attr("src","./img/Hardware/partespc/gabinete_resultado.jpg")
     })
 
     $("#foto2").click(function(){
-        $("#fotodos").attr("src","./img/Hardware/procesador.jpg")
+        $("#fotoPrincipal").attr("src","./img/Hardware/partespc/tecladorgb_resultado.jpg")
     })
-   
+
+    $("#foto3").click(function(){
+        $("#fotoPrincipal").attr("src","./img/Hardware/partespc/monitores_resultado.jpg")
+    })
+    $("#foto3").click(function () {
+        $("#descripcion").text("monitor")
+    })
+    $("#foto2").click(function () {
+        $("#descripcion").text("teclado")
+    })
+    $("#foto1").click(function () {
+        $("#descripcion").text("gabinete")
+    })
 });
 
 
