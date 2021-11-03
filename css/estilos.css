@@ -116,21 +116,7 @@
     font-size: 18px;
 }
 .Phone:hover{
-   background-color:rgb(193, 235, 211) 
-}
-.target-manuales-codigos-tit{
-    text-align: center;
-    font-weight: bold;
-    font-size: 18px;
-}
-.target-manu-cod{
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-}
-.target-cash-man-cod{
-    font-weight: bold;
-    font-style: italic;
-    font-size: 18px; 
+   background-color:rgb(193, 235, 211)  
 }
 .target-rop-femina-tit{
     text-align: center;
@@ -235,20 +221,6 @@
     font-weight: bold;
     font-style: italic;
     font-size: 18px; 
-}
-.target-navidad-tit{
-    text-align: center;
-    font-weight: bold;
-    font-size: 18px;
-}
-.target-navidad{
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-}
-.target-cash-navidad{
-    font-weight: bold;
-    font-style: italic;
-    font-size: 18px;
 }
 .beauty{
    border: blue solid 3px
