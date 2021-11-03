@@ -40,8 +40,11 @@ $(document).ready (function(){
     })
     $("#foto1").click(function(){
         $("#fotoPrincipal").attr("src","./img/Hardware/partespc/gabinete.jpg")
-        $("Ofertas para estudiantes").after()
+    }) 
+    $("#foto1").click(function () {
+         $(<p>"Ofertas para estudiantes"</p>).after()
     })
+
     $("#foto2").click(function(){
         $("#fotodos").attr("src","./img/Hardware/procesador.jpg")
     })
