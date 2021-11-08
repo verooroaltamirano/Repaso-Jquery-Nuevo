@@ -55,7 +55,6 @@ $(document).ready (function(){
     })
     $("#foto1").click(function () {
         $("#descripcion").text("Gabinete")
-        $("#descripcionprecio").num("9000$")
     })
 });
 
