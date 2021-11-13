@@ -77,10 +77,10 @@ $(document).ready (function(){
         $("#photoprimcipal").attr("src","./img/Arte/Sta Therese extasis Baroque-sculpture.jpg")
     })
     $("#photo1").click(function () {
-        $("#descrip").text("Santa Teresa de Jesus")
+        $("#descrip").text("Escultura Santa Teresa de Jesús Extásis Místico")
     })
     $("#photo2").click(function () {
-        $("#photoPrincipal").attr("src",".")
+        $("#photoPrincipal").attr("src","./")
     })
 });
 
