@@ -69,7 +69,7 @@ $(document).ready (function(){
     })
     $("#boton-todos").click(function (){
         $(".electro,.cocina,.Hardware,.belleza,.arte,.mascotas,.SmartPhone,.ropaFemenina,.ropaMasculina,.autos,.motos,.zapatosFemeninos,.zapatosMasculinos,.librosReligiosos").show()
-        $(".belleza2,.belleza3,.electro2,.mascotas2,.cocina2,.Hardware2,.SmartPhone2").hide();
+        $(".belleza2,.belleza3,.electro2,.mascotas2,.cocina2,.Hardware2,.SmartPhone2,.ropaFemenina2").hide();
     })
     $("#foto1").click(function(){
         $("#fotoPrincipal").attr("src","./img/Hardware/partespc/gabinete_resultado.jpg")
