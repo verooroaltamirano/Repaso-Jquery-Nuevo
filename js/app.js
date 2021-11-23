@@ -84,26 +84,15 @@ $(document).ready (function(){
         $("#fotoPrincipal").attr("src","./img/Hardware/partespc/monitores_resultado.jpg")
     })
     $("#foto1").click(function () {
-        $("#descripcion").text("Gabinete")   
+        $("#descripcion").text("Gabinetes led gamers tower consultar")   
     })
     $("#foto2").click(function () {
-        $("#descripcion").text("Teclado")
+        $("#descripcion").text("Teclado usb inhalambricos Rgb varios modelos")
     })
     $("#foto3").click(function () {
-        $("#descripcion").text("Monitor")
+        $("#descripcion").text("Monitor de varias pulgadas consultar")
     })
-    $("#foto4").click(function () {
-        $("#fotoPrincipal4").attr("src","./img/Arte/Sta Therese extasis Baroque-sculpture.jpg")
-    })
-    $("#foto4").click(function () {
-        $("#descripcion").text("Escultura Santa Teresa de Jesús Extásis Místico")
-    })
-    $("#foto5").click(function () {
-        $("#fotoPrincipal5").attr("src", "./ img / Arte / Sta Therese extasis Baroque - sculpture.jpg")
-    })
-    $("#foto5").click(function () {
-        $("#descripcion").text("Escultura Santa Teresa de Jesús Extásis Místico")
-    })
+   
 });
 
 
